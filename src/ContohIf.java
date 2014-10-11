@@ -23,7 +23,7 @@ public class ContohIf {
         
         
         if(nilai <=80 ){
-            System.out.println("Anda LULUS");
+            System.out.println("Anda LULUS dengan nilai plus");
         }
         
     }
